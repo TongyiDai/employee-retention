@@ -1,0 +1,8 @@
+This package adapts concepts and methodology from the manager-skills repository.
+
+Upstream project: https://github.com/manager-dot-dev/manager-skills
+Upstream Skill: skills/retaining-developers
+Upstream commit: c47ebc7adc3ef84056f059e2a426077cfe12de8c
+License: MIT; see LICENSE.
+
+Scenario generalization (any manager / any key contributor), Chinese-context rewriting, the two-stage workflow (standard plan then personalized by core reason), the local diagnostic script with reason mapping, Feishu/Lark read-only evidence integration, privacy safeguards (no attrition scoring, no back-to-back profiling, no monitoring), tests, and visual assets in this package are project additions.

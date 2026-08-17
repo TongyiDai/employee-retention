@@ -1,0 +1,6 @@
+{
+  "context": {"role": "产品经理", "tenure": "3 年", "stage": "has_offer"},
+  "signals": ["已经拿到别家 offer", "说这里看不到往上走的路径", "反复问晋升标准但得不到清晰答复"],
+  "manager_can_change": false,
+  "trust_note": "长期被忽视，信任已经受损"
+}
